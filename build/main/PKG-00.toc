@@ -639,7 +639,7 @@
    'DATA'),
   ('tk/images/logo.eps', '/usr/share/tcltk/tk8.6/images/logo.eps', 'DATA'),
   ('tk/palette.tcl', '/usr/share/tcltk/tk8.6/palette.tcl', 'DATA')],
- 'libpython3.10.so',
+ 'libpython3.10.so.1.0',
  False,
  False,
  False,

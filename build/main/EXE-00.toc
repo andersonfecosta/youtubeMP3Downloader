@@ -1,5 +1,5 @@
 ('/home/andersonfecosta/PycharmProjects/YouTubeMp3Downloader/dist/main',
- True,
+ False,
  False,
  False,
  None,
@@ -647,8 +647,8 @@
  [],
  False,
  False,
- 1717856654,
+ 1717856877,
  [('run',
    '/home/andersonfecosta/.local/lib/python3.10/site-packages/PyInstaller/bootloader/Linux-64bit-intel/run',
    'EXECUTABLE')],
- '/lib/x86_64-linux-gnu/libpython3.10.so')
+ '/lib/x86_64-linux-gnu/libpython3.10.so.1.0')

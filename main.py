@@ -6,7 +6,6 @@ from tkinter import messagebox
 from pytube import YouTube
 from pydub import AudioSegment
 
-
 def download_audio_from_youtube(url):
     try:
         yt = YouTube(url)
